@@ -1,5 +1,2 @@
 # test
-test
-test
-test
-test
+this is inital commit file
